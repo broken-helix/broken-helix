@@ -34,3 +34,8 @@ CRUD website, using Django.
 
 ### Mildew Detector
 Machine Learning project, using image analysis.
+
+## Interests
+
+### Photography
+
