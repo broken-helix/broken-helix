@@ -22,20 +22,32 @@ I've learned so much, in such a short space of time, that it's hard to remember 
 
 ### Forest Hill Flyers
 Simple, one page website, limited to HTML and CSS only.
+[Repository](https://github.com/broken-helix/f-hill-flyers)
+[Live Site](https://broken-helix.github.io/f-hill-flyers/)
 
 ### Rock, Paper, Scissors
 A site using javascript.
+[Repository](https://github.com/broken-helix/rockpaperscissors)
+[Live Site](https://broken-helix.github.io/rockpaperscissors/)
 
 ### Blackjack
 Python terminal project.
+[Repository](https://github.com/broken-helix/card-game)
+[Live Site](https://blackjack-game.herokuapp.com/)
 
 ### Litter-Pickers London
 CRUD website, using Django.
+[Repository](https://github.com/broken-helix/keep-it-tidy-london)
+[Live Site](https://pickers-london-f5f0f470e555.herokuapp.com/)
 
 ### Mildew Detector
 Machine Learning project, using image analysis.
+[Repository](https://github.com/broken-helix/mildew-detector)
+[Live Site](https://mildewdetector-ef3bd4a41238.herokuapp.com/)
 
 ## Interests
 
 ### Photography
+
+### Litter Picking
 
